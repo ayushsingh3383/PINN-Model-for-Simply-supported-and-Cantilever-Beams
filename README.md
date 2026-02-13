@@ -72,7 +72,7 @@ This produces:
 • A monotonic increasing deflection profile  
  • Maximum deflection at the free end
 
-![][image2]  
+
 ---
 
 5. LOSS FUNCTION STRUCTURE
@@ -109,4 +109,6 @@ Observations:
  • Smooth and physically consistent curves  
  • Accurate capture of curvature and boundary behavior
 
- 
+ <p align="center">
+  <img src="Deflection_predicted.png" width="600">
+</p>
